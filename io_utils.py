@@ -40,7 +40,7 @@ def read_file_to_json(filename: str) -> json:
     return json_object
 
 
-def feed_api(url: str, products: list[json], headers: dict):
+def feed_api(url: str, products: json, headers: dict):
     """
     Send list of json objects to api. If an error occurs wait and retry.
     After 5 retries throw exception.
