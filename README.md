@@ -17,7 +17,8 @@ This example is written as a jupyter notebook. The easiest way to use it locally
 ## Run at Google Colab
 - Visit this project on [Google Colab](https://colab.research.google.com/github/quasiris/qsc-quickstart/blob/main/qsc-quickstart.ipynb)
 - Sign in with your google account.
-- On the left side you have the file browser. You need to upload the example data, by clicking the upload
-button (see picture circled red), to use the notebook.
+- On the left side you have the file browser.
+- You need to create a folder called "resources" and upload the example data to that folder.
+- To create a folder right click and select "New folder". To upload click upload button (see picture circled red) and select file.
 - After that you can click "Runtime"->"Run All" and follow the [instructions](qsc-quickstart.ipynb).
 ![File Browser](resources/pictures/google_colab_overview.png)
