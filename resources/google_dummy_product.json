@@ -1,0 +1,215 @@
+{
+  "id": "A2B4",
+  "offerId": "OF3643",
+  "title": "Some product",
+  "description": "Some product description",
+  "link": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "imageLink": "http://www.example.com/image1.jpg",
+  "additionalImageLinks": [
+    "http://www.example.com/image1.jpg",
+    "http://www.example.com/image2.jpg",
+    "http://www.example.com/image3.jpg"
+  ],
+  "contentLanguage": "en",
+  "targetCountry": "US",
+  "feedLabel": "Feed Label",
+  "channel": "online",
+  "expirationDate": "2030-01-17T11:59:00.000Z",
+  "adult": false,
+  "kind": "content#product",
+  "brand": "Some brand",
+  "color": "black",
+  "googleProductCategory": "Elektronik > Drucken, Kopieren, Scannen & Faxen > 3D-Drucker",
+  "gtin": "3234567890126",
+  "itemGroupId": "12",
+  "material": "steel",
+  "mpn": "GO12345OOGLE",
+  "pattern": "polka dots",
+  "price": {
+    "value": "300",
+    "currency": "EUR"
+  },
+  "salePrice": {
+    "value": "250",
+    "currency": "EUR"
+  },
+  "salePriceEffectiveDate": "2016-02-24T11:07+0100 / 2016-02-29T23:07+0100",
+  "productHeight": {
+    "value": 10,
+    "unit": "cm"
+  },
+  "productLength": {
+    "value": 12,
+    "unit": "cm"
+  },
+  "productWidth": {
+    "value": 14,
+    "unit": "cm"
+  },
+  "productWeight": {
+    "value": 20,
+    "unit": "kg"
+  },
+  "shipping": [
+    {
+      "price": {
+        "value": "25",
+        "currency": "EUR"
+      },
+      "country": "US",
+      "region": "North America",
+      "service": "Over Night Express",
+      "locationId": "123456789",
+      "locationGroupName": "Location group",
+      "postalCode": "35004",
+      "minHandlingTime": "1",
+      "maxHandlingTime": "2",
+      "minTransitTime": "3",
+      "maxTransitTime": "4"
+    }
+  ],
+  "shippingWeight": {
+    "value": 30,
+    "unit": "kg"
+  },
+  "sizes": [
+    "XL"
+  ],
+  "taxes": [
+    {
+      "rate": 19,
+      "country": "US",
+      "region": "North America",
+      "taxShip": true,
+      "locationId": "12345",
+      "postalCode": "94*-95*"
+    }
+  ],
+  "customAttributes": [
+    {
+      "name": "Custom attribute",
+      "value": "Custom attribute value",
+      "groupValues": [
+        {
+          "name": "Custom attribute group",
+          "value": "Custom attribute value group"
+        }
+      ]
+    }
+  ],
+  "identifierExists": true,
+  "installment": {
+    "months": "5",
+    "amount": {
+      "value": "250",
+      "currency": "EUR"
+    }
+  },
+  "loyaltyPoints": {
+    "name": "Payback",
+    "pointsValue": "45",
+    "ratio": 2
+  },
+  "multipack": "12",
+  "customLabel0": "Label0",
+  "customLabel1": "Label1",
+  "customLabel2": "Label2",
+  "customLabel3": "Label3",
+  "customLabel4": "Label4",
+  "isBundle": true,
+  "mobileLink": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "availabilityDate": "2016-02-24T11:07+0100",
+  "shippingLabel": "Shipping Label",
+  "unitPricingMeasure": {
+    "value": 12,
+    "unit": "USD"
+  },
+  "unitPricingBaseMeasure": {
+    "value": "12",
+    "unit": "kg"
+  },
+  "shippingLength": {
+    "value": 12,
+    "unit": "cm"
+  },
+  "shippingWidth": {
+    "value": 12,
+    "unit": "cm"
+  },
+  "shippingHeight": {
+    "value": 12,
+    "unit": "cm"
+  },
+  "displayAdsId": "AB012",
+  "displayAdsSimilarIds": [
+    "08123"
+  ],
+  "displayAdsTitle": "Some item",
+  "displayAdsLink": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "displayAdsValue": 12,
+  "sellOnGoogleQuantity": "1234",
+  "promotionIds": [
+    "1"
+  ],
+  "maxHandlingTime": "12",
+  "minHandlingTime": "6",
+  "costOfGoodsSold": {
+    "value": "300",
+    "currency": "EUR"
+  },
+  "source": "api",
+  "includedDestinations": [
+    "dest1"
+  ],
+  "excludedDestinations": [
+    "dest2"
+  ],
+  "adsGrouping": "adsgrouping",
+  "adsLabels": [
+    "adslabels"
+  ],
+  "adsRedirect": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "productTypes": [
+    "Elektronik > Drucken, Kopieren, Scannen & Faxen > 3D-Drucker"
+  ],
+  "ageGroup": "12+",
+  "availability": "available",
+  "condition": "used",
+  "gender": "none",
+  "sizeSystem": "metric",
+  "sizeType": "size type",
+  "additionalSizeType": "additional size type",
+  "energyEfficiencyClass": "A+",
+  "minEnergyEfficiencyClass": "A+",
+  "maxEnergyEfficiencyClass": "A+",
+  "taxCategory": "tax category",
+  "transitTimeLabel": "transit time label",
+  "shoppingAdsExcludedCountries": [
+    "EG"
+  ],
+  "pickupMethod": "ship to store",
+  "pickupSla": "same day",
+  "linkTemplate": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "mobileLinkTemplate": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "productDetails": [
+    {
+      "sectionName": "Cores",
+      "attributeName": "Numbver of cores",
+      "attributeValue": "4"
+    }
+  ],
+  "productHighlights": [
+    "fast"
+  ],
+  "subscriptionCost": {
+    "period": "Monthly",
+    "periodLength": "6",
+    "amount": {
+      "value": "300",
+      "currency": "EUR"
+    }
+  },
+  "canonicalLink": "http://www.example.com/asp/sp.asp?cat=12&id=1030",
+  "externalSellerId": "GH38",
+  "pause": "ads"
+}
