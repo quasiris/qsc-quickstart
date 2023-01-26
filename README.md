@@ -41,3 +41,10 @@ If you want to use other data you can upload your files to google drive in order
 - Make sure the file is uploaded to your Google Drive.
 - By hovering over a file in the file browser you get three dots right beside the filename. You can copy the path by
 clicking on them and then select "Copy path"
+
+# Convert Google shopping feed to QSC
+**This project is still under development. Therefore some features might be missing.**</br></br>
+Using [this guide](google_shopping_feed_to_qsc.ipynb) you can convert a given Google shopping feed to the QSC format.
+
+## Run on Google Colab
+Visit this project on [Google Colab](https://colab.research.google.com/github/quasiris/qsc-quickstart/blob/main/google_shopping_feed_to_qsc.ipynb)
